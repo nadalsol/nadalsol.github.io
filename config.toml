@@ -1,4 +1,5 @@
-baseURL = 'https://nadalsol.github.io'
+baseURL = 'https://nadalsol.github.io/dummy-project/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
+# comment
